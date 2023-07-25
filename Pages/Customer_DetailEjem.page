@@ -1,0 +1,12 @@
+{
+	"_Type": "Page",
+	"_Name": "Customer_DetailEjem",
+	"Controls": [
+		{
+			"_Name": "SectionedTable0",
+			"_Type": "Control.Type.SectionedTable"
+		}
+	],
+	"Caption": "Customer_DetailEjem",
+	"PrefersLargeCaption": true
+}
